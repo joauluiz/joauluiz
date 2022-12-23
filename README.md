@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## About me 😁:
+## About me 😁
 
 -Bachelor's degree in Chemical Engineering from the Federal Technological University of Paraná
 
