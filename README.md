@@ -4,7 +4,11 @@
 
 -Bachelor's degree in Chemical Engineering from the Federal Technological University of Paraná
 
--Advanced knowledge in machine learning, Excel, Power BI, and ETL
+-Python
+
+-Machine Leaning
+
+-Advanced knowledge in  Excel, Power BI, and ETL
 
 -Internship at Grupo Tigre, where I developed Power BI Pro governance panels and worked with the marketing team
 
