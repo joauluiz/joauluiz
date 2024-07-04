@@ -1,30 +1,29 @@
-# Hi there 👋
+# Olá 👋
 
-## About me 😁
+## Sobre mim 😁
 
--Bachelor's degree in Chemical Engineering from the Federal Technological University of Paraná
+-Graduado em Engenharia Química (UTFPR - Ponta Grossa/PR)
+
+-Pós-graduado em Arquitetura e Engenharia de Dados
+
+-Azure Fundamentals certification
+
+-SQL
 
 -Python
 
 -Machine Leaning
 
--Advanced knowledge in  Excel, Power BI, and ETL
+-Javascript
 
--Internship at Grupo Tigre, where I developed Power BI Pro governance panels and worked with the marketing team
+-Conhecimento avançado em Excel, Power BI, and ETL
 
--Azure Fundamentals certification
+-Inglês avançado
 
--Advanced in English
+-Experiência com ferramentas como Power Automate, SharePoint, Word, Access, VBA e Power Point
 
--Experience with tools such as Power Automate, SharePoint, Word, and Power Point
+-Proativo em todos os projetos em que participo
 
--Monitor for the numerical calculus discipline during my degree
-
--Intermediate knowledge in SQL
-
--Proactivity and commitment to the success of the projects I am part of
-
--Interest in applying my knowledge and skills to new challenges and opportunities in the BI/DATA area.
 
 
 <!--
